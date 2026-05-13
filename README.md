@@ -1,6 +1,6 @@
 # OOP in Java
 
-[Versão em português](README.md)
+[Versão em português](README.pt-br.md)
 
 Repository with practical **Object-Oriented Programming (OOP)** exercises in Java. The project contains simple examples for studying **inheritance**, **polymorphism**, abstract classes, method overriding, and package organization.
 
